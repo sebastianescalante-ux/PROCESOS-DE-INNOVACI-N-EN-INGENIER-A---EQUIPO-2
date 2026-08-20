@@ -10,7 +10,9 @@ Nuestro objetivo es desarrollar la capacidad de proponer soluciones innovadoras 
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-<img width="236" height="198" alt="ODS13" src="https://github.com/user-attachments/assets/4fb73f0c-d707-4c68-bd48-5f195c6a129e" />  <img width="255" height="198" alt="ODS9" src="https://github.com/user-attachments/assets/b6d57b32-1cb1-47e1-8b1e-ac853fb7e7f2" />
+<img width="236" height="198" alt="ODS13" src="https://github.com/user-attachments/assets/4fb73f0c-d707-4c68-bd48-5f195c6a129e" />  <img width="255" height="198" alt="ODS9" src="https://github.com/user-attachments/assets/b6d57b32-1cb1-47e1-8b1e-ac853fb7e7f2" /><img width="195" height="198" alt="ods 6" src="https://github.com/user-attachments/assets/1d3348f0-2730-47bc-b4ac-fc2904d24c3f" /><img width="236" height="198" alt="ods 16" src="https://github.com/user-attachments/assets/f4d46d93-0f82-41ce-ab50-25c7d46e203d" />
+
+
 
 
 
