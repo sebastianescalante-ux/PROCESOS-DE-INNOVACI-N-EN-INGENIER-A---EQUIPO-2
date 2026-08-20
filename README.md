@@ -1,4 +1,3 @@
-<img width="183" height="198" alt="ODS11" src="https://github.com/user-attachments/assets/7e55dd62-8d68-4efb-a9c0-6f0257f47ad3" />
 PROCESOS DE INNOVACIÓN EN INGENIERÍA - EQUIPO 2
 
 Carreras de ingeniería Ambiental/Informática/Industrial 
@@ -11,7 +10,8 @@ Nuestro objetivo es desarrollar la capacidad de proponer soluciones innovadoras 
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-<img width="236" height="198" alt="ODS13" src="https://github.com/user-attachments/assets/4fb73f0c-d707-4c68-bd48-5f195c6a129e" />  <img width="255" height="198" alt="ODS9" src="https://github.com/user-attachments/assets/b6d57b32-1cb1-47e1-8b1e-ac853fb7e7f2" /><img width="195" height="198" alt="ods 6" src="https://github.com/user-attachments/assets/1d3348f0-2730-47bc-b4ac-fc2904d24c3f" /><img width="236" height="198" alt="ods 16" src="https://github.com/user-attachments/assets/f4d46d93-0f82-41ce-ab50-25c7d46e203d" />
+<img width="236" height="198" alt="ODS13" src="https://github.com/user-attachments/assets/4fb73f0c-d707-4c68-bd48-5f195c6a129e" />  <img width="255" height="198" alt="ODS9" src="https://github.com/user-attachments/assets/b6d57b32-1cb1-47e1-8b1e-ac853fb7e7f2" /><img width="195" height="198" alt="ods 6" src="https://github.com/user-attachments/assets/1d3348f0-2730-47bc-b4ac-fc2904d24c3f" /><img width="236" height="198" alt="ods 16" src="https://github.com/user-attachments/assets/f4d46d93-0f82-41ce-ab50-25c7d46e203d" /><img width="183" height="198" alt="ODS11" src="https://github.com/user-attachments/assets/940fae39-fce0-4901-99e1-9201d9913ac2" />
+
 
 
 
