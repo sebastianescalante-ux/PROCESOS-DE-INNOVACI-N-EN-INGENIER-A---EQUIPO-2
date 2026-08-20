@@ -10,8 +10,8 @@ Nuestro objetivo es desarrollar la capacidad de proponer soluciones innovadoras 
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-![ods13]
-(Recursos/ODS13 . JPG)
+<img width="236" height="198" alt="ODS13" src="https://github.com/user-attachments/assets/0849d0a9-a4dc-4aab-8b95-db9cc9542ee1" />
+
 
 Integrantes del equipo: 
 
