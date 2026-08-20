@@ -1,3 +1,4 @@
+<img width="183" height="198" alt="ODS11" src="https://github.com/user-attachments/assets/7e55dd62-8d68-4efb-a9c0-6f0257f47ad3" />
 PROCESOS DE INNOVACIÓN EN INGENIERÍA - EQUIPO 2
 
 Carreras de ingeniería Ambiental/Informática/Industrial 
