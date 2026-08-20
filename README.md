@@ -10,7 +10,8 @@ Nuestro objetivo es desarrollar la capacidad de proponer soluciones innovadoras 
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-
+![ods13]
+(Recursos/ODS13.JPG)
 
 Integrantes del equipo: 
 
