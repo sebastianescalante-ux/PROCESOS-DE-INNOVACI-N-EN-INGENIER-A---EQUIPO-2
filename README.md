@@ -24,7 +24,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | Foto | Nombre | Rol | Intereses |
 | --- | --- | --- | --- |
 |  | Joaquín Severo Silva Salazar | Encargado de documentación | Comunicación científica y redacción técnica |
-|  | Sebastián Omar Escalante Agama | Líder del equipo | Sostenibilidad, Innovación social, Diseño de prototipos |
+| ![Foto](Imagenes/Omar.jpg) | Sebastián Omar Escalante Agama | Líder del equipo | Sostenibilidad, Innovación social, Diseño de prototipos |
 | ![Foto](Imagenes/Zayuri.jpg.png) | Zayury Danitza Dionicio Tomas | Redactora | Redacción académica y corrección ortográfica |
 | ![Foto](Imagenes/sneyder.jpeg) | Sneyder Jair Huerta Macedo | Responsable de Investigación | Gestión ambiental, Desarrollo Comunitario |
 |  | Xiomara Huillcamascco Marca | Diseñadora | Diseño de prototipos, creatividad aplicada |
