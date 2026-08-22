@@ -27,7 +27,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | ![Foto](Imagenes/Omar.jpg) | Sebastián Omar Escalante Agama | Líder del equipo | Sostenibilidad, Innovación social, Diseño de prototipos |
 | ![Foto](Imagenes/Zayuri.jpg.png) | Zayury Danitza Dionicio Tomas | Redactora | Redacción académica y corrección ortográfica |
 | ![Foto](Imagenes/sneyder.jpeg) | Sneyder Jair Huerta Macedo | Responsable de Investigación | Gestión ambiental, Desarrollo Comunitario |
-|  | Xiomara Huillcamascco Marca | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| ![Foto](Imagenes/xiom.jpeg) | Xiomara Huillcamascco Marca | Diseñadora | Diseño de prototipos, creatividad aplicada |
 
 ---
 
